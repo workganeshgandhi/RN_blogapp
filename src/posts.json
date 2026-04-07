@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "A Message to Our Customers",
+    "image": "https://blog.hackerrank.com/wp-content/uploads/Thumb_Platform-First-Approach_Blog.png",
+    "author": "epaga",
+    "num_comments": 967,
+    "created_at": "18 Jan"
+  },
+  {
+    "id": 2,
+    "title": "How I started my own company?",
+    "image": "https://blog.hackerrank.com/wp-content/uploads/THUMB_Interview_Templates.png",
+    "author": "epaga",
+    "num_comments": 265,
+    "created_at": "17 Jan"
+  },
+  {
+    "id": 3,
+    "title": "What is Cost of Acquisition for a customer?",
+    "image": "https://blog.hackerrank.com/wp-content/uploads/Thumb_UniversityHiring.png",
+    "author": "epaga",
+    "num_comments": 705,
+    "created_at": "18 Jan"
+  },
+  {
+    "id": 4,
+    "title": "Fastest CPUs in the world",
+    "image": "https://blog.hackerrank.com/wp-content/uploads/Thumb_Automation.png",
+    "author": "patricktomas",
+    "num_comments": 376,
+    "created_at": "16 Jan"
+  },
+  {
+    "id": 5,
+    "title": "How easy is Vue.js to use?",
+    "image": "https://blog.hackerrank.com/wp-content/uploads/THUMB_CustomizedWhiteboard.png",
+    "author": "saintamh",
+    "num_comments": 685,
+    "created_at": "19 Jan"
+  },
+  {
+    "id": 6,
+    "title": "How React Dom really works?",
+    "image": "https://blog.hackerrank.com/wp-content/uploads/THUMB_Slack_Microsoft_Blog.png",
+    "author": "saintamh",
+    "num_comments": 305,
+    "created_at": "18 Jan"
+  },
+  {
+    "id": 7,
+    "title": "The great mind of a superstar",
+    "image": "https://blog.hackerrank.com/wp-content/uploads/THUMB_Benchmarking_Blog.png",
+    "author": "panny",
+    "num_comments": 1397,
+    "created_at": "18 Jan"
+  },
+  {
+    "id": 8,
+    "title": "Show: This up votes itself",
+    "image": "https://blog.hackerrank.com/wp-content/uploads/THUMB_DistributedDevelopment_Blog.png",
+    "author": "olalonde",
+    "num_comments": 83,
+    "created_at": "16 Jan"
+  }
+]
